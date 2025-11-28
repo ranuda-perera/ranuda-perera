@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hi there 👋 I'm Ranuda
 
-<!--
-**ranuda-perera/ranuda-perera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **A Software Developer in progress**
 
-Here are some ideas to get you started:
+I'm currently pursuing an **Information Technology Degree** at **SLIIT**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, Java |
+| **Frontend** | React |
+| **Backend** | Node.js, Spring Boot |
+
+---
+
+### 🔗 Let's Connect
+
+* **LinkedIn:** [Ranuda Perera](https://www.linkedin.com/in/ranuda-perera)
+* **Instagram:** [@ranuda.r](https://www.instagram.com/ranuda.r)
+
+---
